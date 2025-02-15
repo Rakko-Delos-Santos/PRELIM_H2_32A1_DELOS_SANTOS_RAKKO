@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Navbar {
+  background-color: #ddd;
+  color: black;
+}
+
+.navbar a {
+  color: rgb(2, 2, 2);
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+.navbar {
+  background-color: #3b3d3f;
+}
+.navbar-brand {
+  font-weight: bold;
+  color: #595b5e;
+}
+.navbar-brand:hover {
+  color: #282829;
+}
